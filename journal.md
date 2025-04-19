@@ -311,6 +311,8 @@ That's right!! I sent them an email, and none other than Polymaker Joel responde
 
 Polymaker🔛🔝
 
+(plz note, if you're a hackclubber reading this I'd appreciate if u didn't tell everybody on slack,,, not because they don't deserve the sponsorship but because if 50 ppl ask polymaker for free filament for the same reason, they may start to become suspicious and less lenient. this can put a bad name on hack club. thx.)
+
 ## pictures!! my timeline of the printer 🥲
 
 Ahh... simple beginnings. Here's when I was using the Rapido Phaetus ace hf 2 hotend with the orbiter v1.5 extruder:
