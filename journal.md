@@ -325,6 +325,14 @@ Like, you can't do that!!!! Looks like the seller shipped it empty!!!!!! I appli
 
 Anyways that's basically it. Z axis belt system works good. Oh yeah, I also need to get a build plate from amazon. Will do.
 
+OH YEAH and I also................... waiiit........... i forgot... oh yeah. I changed the printhead logo to be super sick and much better since it was super ugly. Now it matches my logo at [https://anicetus.dev](https://anicetus.dev) (shameless plug) as a cool hexagon thing:
+
+![new logo](https://hc-cdn.hel1.your-objectstorage.com/s/v3/bf08cb30a5bd7cdd6134c7e9cb830e697c99ef9c_anicept-vex-new-logo.jpg)
+
+and here's a belt drive rendered pic for good measure
+
+![belt drive](https://hc-cdn.hel1.your-objectstorage.com/s/v3/16d1f4e7901421dfefa5fa2ac5ddbe8fe9146de4_belt-drive.jpeg)
+
 ## pictures!! my timeline of the printer 🥲
 
 Ahh... simple beginnings. Here's when I was using the Rapido Phaetus ace hf 2 hotend with the orbiter v1.5 extruder:
