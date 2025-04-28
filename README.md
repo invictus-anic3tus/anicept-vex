@@ -21,3 +21,4 @@ WIP BOM at [https://docs.google.com/spreadsheets/d/1GO_HGXTeiZWquWsCZzynmvAluWZn
 # Gallery
 ![Anicept_Vex](https://github.com/user-attachments/assets/0c96d487-a716-4244-adf3-bd8c36f342e8)
 ![Printhead](https://github.com/user-attachments/assets/4f1559ba-5475-4573-b945-b26abe874bad)
+![Belt Drive](https://hc-cdn.hel1.your-objectstorage.com/s/v3/16d1f4e7901421dfefa5fa2ac5ddbe8fe9146de4_belt-drive.jpeg)
