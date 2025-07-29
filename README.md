@@ -16,7 +16,7 @@ The 3DP RSR Pi, or 3D printer remote shutdown relay for raspberry pi, is a simpl
 
 # BOM
 
-WIP BOM at [https://docs.google.com/spreadsheets/d/1GO_HGXTeiZWquWsCZzynmvAluWZnmblAnS994K72vQ0/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1GO_HGXTeiZWquWsCZzynmvAluWZnmblAnS994K72vQ0/edit?usp=sharing)
+WIP BOM [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQz0esRw1XraHSwLgK4ikg-dGYrP_rHndWflWN7CrjolDGaA6GICN4L5N2tb5cn6hRb_1-iV5-vDf6D/pubhtml)
 
 # Gallery
 ![Anicept_Vex](https://github.com/user-attachments/assets/0c96d487-a716-4244-adf3-bd8c36f342e8)
